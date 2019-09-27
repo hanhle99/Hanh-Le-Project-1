@@ -54,44 +54,56 @@ return randomQuote;
 // array of color for the background and button
 var colors = [
   {
-      background: "#ff2e63", //pink
-      button: "#252a34"
+      background: "#ff2e63", // color: dark pink
+      button: "#393e46" //color: cloud burst
   },
   {
-      background: "#00adb5", //teal
-      button: "#393e46"
+    background: "#cd5c5c", //color: indian red
+    button: "#455d7a" //color: dingley
+ },
+  {
+    background: "#ff0000", //color: red
+    button: "#354a42" //color: Te Papa Green
   },
   {
-      background: "#f38181", //salmon
-      button: "#625772"
+      background: "#00adb5", //color: Teal
+      button: "#252a34" //color: Midnight Express
   },
   {
-      background: "#6639a6", //purple
-      button: "#521262"
+    background: "#f95959", //color: Orange
+    button: "#c6b6e0" //color: Lilac Bush
   },
   {
-      background: "#3f72af", //blue
-      button: "#112d4e"
+      background: "#f38181", //color: Salmon
+      button: "#6bblbf" //color: Colblindor
   },
   {
-      background: "#f95959", //orange
-      button: "#455d7a"
+      background: "#6639a6", //color: Purple
+      button: "#521262" //color: Shuttle Grey
   },
   {
-      background: "#a3de83", //lt green
-      button: "#2eb872"
+      background: "#3f72af", //color: Blue
+      button: "#112d4e" //color: Blue Whale
   },
   {
-      background: "#118df0", //bright blue
-      button: "#0e2f56"
+      background: "#a3de83", //color: Light Green
+      button: "#2eb872" //color: Meteor
   },
   {
-      background: "#ff5722", //bright orange
-      button: "#393e46"
+      background: "#118df0", //color: Bright Blue
+      button: "#0e2f56" //color: Prussian Blue
   },
   {
-      background: "#3fc1c9", //aqua
-      button: "#fc5185"
+    background: "#f08080", //color: Light Coral
+    button: "#e9967a" //color: Dark Salmon
+  },
+  {
+      background: "#ff5722", //color: Bright Orange
+      button: "ae637c" //color: Hue
+  },
+  {
+      background: "#3fc1c9", //color: Aqua
+      button: "#fc5185" //color: French Rose
   }
 ];
 
