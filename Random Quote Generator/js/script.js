@@ -58,11 +58,11 @@ var colors = [
       button: "#393e46" //color: cloud burst
   },
   {
-    background: "#cd5c5c", //color: indian red
-    button: "#455d7a" //color: dingley
+    background: "#cd5c5c", //color: Indian Red
+    button: "#455d7a" //color: Dingley
  },
   {
-    background: "#ff0000", //color: red
+    background: "#ff0000", //color: Red
     button: "#354a42" //color: Te Papa Green
   },
   {
